@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 // import { AppBar} from '@mui/material';
-import AppBar from '@mui/material/AppBar';
+// import AppBar from '@mui/material/AppBar';
 // import Box from '@mui/material/Box';
 // import Toolbar from '@mui/material/Toolbar';
 // import Typography from '@mui/material/Typography';
@@ -17,7 +17,7 @@ import Navbar from "./components/navbar";
 import Home from "./components/home"
 import Cart from "./components/cart"
 import Preview from "./components/preview"
-import Product from "./components/product"  
+// import Product from "./components/product"  
 
 import {BrowserRouter as Router , Switch , Route } from "react-router-dom"
 let App = () =>{
